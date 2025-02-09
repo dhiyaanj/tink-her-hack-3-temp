@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Traffic Rules Violations</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Traffic Rules Violations Awareness</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="violations.html">Violations</a></li>
+        <li><a href="report.html">Report a Violation</a></li>
+        <li><a href="penalties.html">Penalties</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>What Are Traffic Violations?</h2>
+      <p>Traffic violations are acts that break the law while driving or walking on public roads. Examples include speeding, running a red light, and illegal parking.</p>
+    </section>
+
+    <section>
+      <h2>Types of Violations</h2>
+      <ul>
+        <li>Speeding</li>
+        <li>Running Red Lights</li>
+        <li>Illegal Parking</li>
+        <li>Driving Under the Influence</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact: info@trafficviolations.com</p>
+  </footer>
+</body>
+</html>
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #29a4c6;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+  }
+  
+  header nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  
+
+
+</style>
+<form action="submit_violation.php" method="POST">
+    <label for="violation-type">Select Violation:</label>
+    <select name="violation-type" id="violation-type">
+      <option value="speeding">Speeding</option>
+      <option value="red-light">Running Red Light</option>
+      <option value="illegal-parking">Illegal Parking</option>
+      <!-- Add more violations as needed -->
+    </select>
+  
+    <label for="location">Location:</label>
+    <input type="text" id="location" name="location" required>
+  
+    <label for="description">Description:</label>
+    <textarea id="description" name="description" required></textarea>
+  
+    <button type="submit">Submit Violation</button>
+  </form>
+  <form action="submit_violation.php" method="POST">
+    <label for="violation-type">Select Violation:</label>
+    <select name="violation-type" id="violation-type">
+      <option value="speeding">Speeding</option>
+      <option value="red-light">Running Red Light</option>
+      <option value="illegal-parking">Illegal Parking</option>
+      <!-- Add more violations as needed -->
+    </select>
+  
+    <label for="location">Location:</label>
+    <input type="text" id="location" name="location" required>
+  
+    <label for="description">Description:</label>
+    <textarea id="description" name="description" required></textarea>
+  
+    <button type="submit">Submit Violation</button>
+  </form>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login - Traffic Violations</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+
+
