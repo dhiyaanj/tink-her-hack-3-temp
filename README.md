@@ -1,33 +1,35 @@
-# [Project Name] 🎯
+# [DRIVEWISE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Python]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Anjana Binu] - [SCMS college]
+- Member 2: [dhiya Jayakrishnan] - [SCMS College]
+  
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://inspiring-cranachan-c7eb2f.netlify.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Traffic Violation Rules App
+
+The Traffic Violation Rules App is a comprehensive platform designed to educate and inform users about traffic laws, regulations, and penalties. It provides up-to-date information on common traffic violations, fines, and legal consequences to promote safe and responsible driving. With an easy-to-navigate interface, the app allows users to quickly access rules specific to their region, track their violation history, and receive real-time updates on changes in traffic regulations. Stay informed, drive safely, and avoid unnecessary fines with the Traffic Violation Rules App.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Reduce road accidents]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[App provides the user to know about their penalty history and get updates on changes in traffic regulations]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [html]
+- [php]
+- [javascript]
 - [Tools used]
 
 For Hardware:
@@ -46,9 +48,9 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots ()![Screenshot 2025-02-09 103552](https://github.com/user-attachments/assets/baa7a366-688a-4c74-bb4b-7b7fc8d5ce49)
+
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
